@@ -1,0 +1,168 @@
+body {
+  margin: 0;
+  text-align: center;
+  position: center;
+  color: #40514e;
+}
+
+.topcontainer {
+  position: relative;
+  padding-top: 100px;
+
+  background-color: #e4f9f5;
+}
+.aboutme {
+  width: 30%;
+  margin: auto;
+}
+
+.cloudtop {
+  right: 300px;
+  bottom: 300px;
+  position: absolute;
+}
+.cloudbottom {
+  position: absolute;
+  left: 300px;
+  top: 50px;
+}
+
+h1 {
+  font-family: "Vujahday Script", cursive;
+  font-size: 5rem;
+  line-height: 2;
+}
+p {
+  font-family: "Changa", sans-serif;
+  font-weight: 900;
+}
+h1,
+h2 {
+  color: #66bfbf;
+}
+
+h3,
+a {
+  color: #11999e;
+}
+
+.middle-container {
+  padding: 100px 0;
+  margin-top: 100px;
+}
+h2 {
+  font-weight: normal;
+  font-style: oblique;
+  padding-bottom: 20px;
+}
+
+#profile {
+  border-radius: 50%;
+  height: 175px;
+}
+
+.skill-row {
+  width: 50%;
+
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+p {
+  line-height: 2;
+}
+
+.web3,
+.skillspic {
+  height: 170px;
+  width: 200px;
+  border-radius: 45%;
+  float: right;
+  margin-right: 30px;
+}
+
+.web3 {
+  float: none;
+  float: right;
+  margin-left: 50px;
+}
+.skillspic {
+  margin-right: 50px;
+}
+.mern {
+  margin-left: 50px;
+  height: 170px;
+  width: 200px;
+  border-radius: 45%;
+  float: left;
+}
+
+.button {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #2980b9);
+  background-image: -moz-linear-gradient(top, #11cdd4, #2980b9);
+  background-image: -ms-linear-gradient(top, #11cdd4, #2980b9);
+  background-image: -o-linear-gradient(top, #11cdd4, #2980b9);
+  background-image: linear-gradient(to bottom, #11cdd4, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 15px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin-top: 50px;
+}
+
+.button:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11cdd4);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11cdd4);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11cdd4);
+  background-image: -o-linear-gradient(top, #11cdd4, #11cdd4);
+  background-image: linear-gradient(to bottom, #11cdd4, #11cdd4);
+  text-decoration: none;
+}
+
+.bottom-container {
+  background-color: #66bfbf;
+  padding-bottom: 50px;
+}
+
+.links {
+  word-spacing: 100px;
+  font-weight: 900;
+  text-decoration: wavy;
+  font-style: oblique;
+  padding-top: 50px;
+  color: white;
+}
+.footer-link {
+  text-decoration: none;
+  font-size: 25px;
+  word-spacing: 5em;
+}
+hr {
+  border: dotted;
+  color: #eaf6f6;
+  border-bottom: none;
+  width: 4%;
+}
+
+.aboutme {
+  padding-bottom: 150px;
+}
+
+.mernclass {
+  margin: 200px auto 200px -200px;
+}
+
+.mern {
+  margin-right: 50px;
+  border: 50px;
+}
+
+.btc {
+  margin-left: 50px;
+}
